@@ -150,14 +150,6 @@ I'm interested in working on real-world applications, collaborating with develop
 
 ---
 
-## 📖 Markdown Cheat Sheet
-
-Want to customize your GitHub README?
-
-👉 [Markdown Cheat Sheet](https://www.markdownguide.org/cheat-sheet/)
-
----
-
 <p align="center">
 
 ### 🚀 Build • Learn • Improve • Repeat
