@@ -85,47 +85,6 @@ During my Java Full Stack internship, I worked on an **E-commerce Management Sys
 
 ---
 
-## 🚀 Featured Projects
-
-### 🔗 InternLink — Internship & Placement Portal
-
-A full-stack platform designed to connect students, companies, and administrators through an internship and placement management system.
-
-**Technology Stack**
-
-`React.js` `Java` `Spring Boot` `MySQL` `REST API`
-
-**Key Features**
-
-* 👨‍🎓 Student dashboard
-* 🏢 Company dashboard
-* 👨‍💼 Admin dashboard
-* 🔐 Authentication
-* 💼 Internship management
-* 📊 Admin management
-* 🔌 RESTful APIs
-
----
-
-### 🛒 E-Commerce Management System
-
-A full-stack e-commerce management application developed during my Java Full Stack internship.
-
-**Technology Stack**
-
-`Java` `Spring Boot` `React.js` `MySQL` `Hibernate` `Spring Data JPA`
-
-**Key Features**
-
-* Product management
-* CRUD operations
-* RESTful APIs
-* Database management
-* Backend business logic
-* React.js frontend
-
----
-
 ## 🧠 Core Development Skills
 
 ```text
