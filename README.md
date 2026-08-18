@@ -1,17 +1,11 @@
-## Hi there 👋
+# 👋 Welcome to My GitHub Profile
 
-# Heading 1
-## Heading 2
+## About Me
+Hi! I'm just learning **Markdown** and *customizing* my GitHub profile.
 
-**Bold**
-*Italic*
+Check out [Markdown Guide](https://www.markdownguide.org/cheat-sheet/) for more tips.
 
-- Item 1
-- Item 2
-
-[LinkedIn](https://linkedin.com)
-
-![Image](image-url)
-
-`code`
-
+<p align="center">
+  <b>This text is bold inside HTML</b><br>
+  <i>And this line is italic using HTML</i>
+</p>
