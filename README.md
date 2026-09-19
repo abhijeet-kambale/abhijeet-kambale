@@ -15,7 +15,7 @@
 
 🎓 I'm a **Computer Science & Engineering fresher** passionate about building modern and scalable web applications.
 
-💻 I specialize in **Java Full Stack Development**, with hands-on experience in **Java, Spring Boot, React.js, MySQL, REST APIs, and Git**.
+💻 I specialize in **Java Full Stack Development**, with hands-on experience in **Java, Spring Boot, React.js, MySQL, REST APIs, and Git, Github**.
 
 🚀 I enjoy building real-world projects, solving programming problems, and continuously improving my software development skills.
 
